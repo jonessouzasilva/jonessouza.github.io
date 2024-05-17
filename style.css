@@ -27,7 +27,7 @@
     width: 100%;
     top: 0;
     left: 0;
-    padding: 4rem 12%;
+    padding: 1rem 6%;
     background: black rgba(0, 0, 0, 0,3);
     backdrop-filter: blur(10px);
     display: flex;
